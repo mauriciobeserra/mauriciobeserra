@@ -5,9 +5,10 @@
 
 bem-vindo ao meu portfólio!
 
-estudante de Engenharia de software. 
-Programador FullStack apaixonado por tecnologia e inovação.
-buscando sempre criar soluções eficientes e de impacto.
+  🎓 Estudante de Engenharia de Software.  
+  💻 Programador Fullstack apaixonado por tecnologia e inovação.  
+  🚀 Buscando sempre criar soluções eficientes e de impacto. 
 
 ** tecnologia e ferramentas **
 
+  
